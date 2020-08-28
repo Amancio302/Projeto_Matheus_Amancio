@@ -19,10 +19,10 @@ public class A {
   }
   
   public void MA1 () {
-    System.out.println("MA1")
+    System.out.println("MA1");
   }
   
   public void MA2 () {
-    System.out.println("MA2")
+    System.out.println("MA2");
   }
 }
